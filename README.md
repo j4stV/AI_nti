@@ -2,7 +2,5 @@
 Ссылка на задачу RussianSuperGlue - https://russiansuperglue.com/ru/tasks/task_info/RuCoS
 
 Представлены коды дообучения двух моделей:
-
-• ruBERT - rubert.ipynb
-
-• ruGPT-3 - rugpt3.ipynb
+ - ruBERT - [rubert.ipynb](https://nbviewer.jupyter.org/github/justlcoder/AI_nti/blob/master/rubert.ipynb)
+ - ruGPT-3 - [rugpt3.ipynb](https://nbviewer.jupyter.org/github/justlcoder/AI_nti/blob/master/rugpt3.ipynb)
